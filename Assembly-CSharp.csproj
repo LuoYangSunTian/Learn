@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{85F8FBC3-D6E5-C856-3D27-A7E6F2BEA805}</ProjectGuid>
+    <ProjectGuid>{540E98A0-E2FE-A5D9-5B91-60EEF727AD26}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -907,7 +907,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="PSDImporterCustomPacker.csproj">
-      <Project>{60DF1E09-4164-B976-451C-9B847FCCFC38}</Project>
+      <Project>{5D9AC48F-B7F6-5700-01CE-EF83E559C161}</Project>
       <Name>PSDImporterCustomPacker</Name>
     </ProjectReference>
   </ItemGroup>
