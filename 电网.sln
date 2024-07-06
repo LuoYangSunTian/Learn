@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{A76C11AC-82CB-BD52-0EDD-1F010279706D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSDImporterCustomPacker", "PSDImporterCustomPacker.csproj", "{5FFB4FE0-35ED-676C-C51A-B97B65901879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A76C11AC-82CB-BD52-0EDD-1F010279706D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76C11AC-82CB-BD52-0EDD-1F010279706D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76C11AC-82CB-BD52-0EDD-1F010279706D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76C11AC-82CB-BD52-0EDD-1F010279706D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FFB4FE0-35ED-676C-C51A-B97B65901879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFB4FE0-35ED-676C-C51A-B97B65901879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFB4FE0-35ED-676C-C51A-B97B65901879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFB4FE0-35ED-676C-C51A-B97B65901879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
